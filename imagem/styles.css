@@ -1,0 +1,9 @@
+/* Define a imagem de fundo para todo o site */
+body {
+    background-image: url('imagens/ Elemento como BG.png');
+    background-size: cover; /* Ajusta a imagem para cobrir o fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimento padrão */
+}
